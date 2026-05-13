@@ -10,7 +10,7 @@ This is an adaptation of the **Daggerheart SRD** converted to Markdown (.MD) for
 
 **The Daggerheart Systems Reference Document (SRD)** contains guidelines for publishing your own Daggerheart content under the [Darrington Press Community Gaming License](https://www.daggerheart.com/srd/).
 
-For additional information and other converted SRDs, please visit the [SRD Hub](https://oldmanumby.github.io/srd.hub).
+For additional information and other converted SRDs, please visit the [SRD Hub](https://srd.oldmanumby.com).
 
 <details>
  <summary>Why Markdown format?</summary>
