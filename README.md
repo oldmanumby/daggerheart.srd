@@ -3,7 +3,7 @@
 
 ---
 
-# Daggerheart reMastered!
+# Daggerheart SRD reMastered!
 
 For additional information and other reMastered SRDs, please visit the [SRD Hub](https://srd.oldmanumby.com).
 
