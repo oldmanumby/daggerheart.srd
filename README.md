@@ -1,18 +1,17 @@
-![DaggerheartLogo](dh.logo.png)
+
+![D&D Logo](SRD_reMastered.png)
 
 ---
 
-# REorganized. REpublished. REmastered!
+# Daggerheart reMastered!
 
-For additional information and other REmastered SRDs, please visit the [SRD Hub](https://srd.oldmanumby.com).
+For additional information and other reMastered SRDs, please visit the [SRD Hub](https://srd.oldmanumby.com).
 
-### What is Daggerheart SRD REmastered?
+### What is a reMastered SRD?
 
-This is an adaptation of the **Daggerheart SRD** converted to Markdown (.MD) for easy export to other publishing formats and utilized in your own Daggerheart projects. Please report any issues or discrepancies within the material itself; see Discussions & Issues below.
+This material contains a **reOrganized and rePublished** markdown (.md) adaptation of the original .PDF documentation (a.k.a SRD) to use and/or export in your own projects via the publisher's guidelines and game license (all contained within the material). This adaptation does not contain any content of a proprietary nature or identified as product identity. Please report any issues or discrepancies of the converted material; see **rePport & reFork** below. 
 
-**The Daggerheart Systems Reference Document (SRD)** contains guidelines for publishing your own Daggerheart content under the [Darrington Press Community Gaming License](https://www.daggerheart.com/srd/).
-
-[Download](https://github.com/oldmanumby/daggerheart.srd/archive/refs/heads/main.zip) this markdown SRD in a .ZIP file.
+[Download](../../archive/refs/heads/main.zip) this markdown SRD in a .ZIP file.
 
 <details>
  <summary>Why Markdown format?</summary>
@@ -38,13 +37,14 @@ To export markdown to other publishing formats, I recommend using ***Typora*** a
 <details>
  <summary>PKM-Friendly</summary>
 
-This SRD material contains optional content designed specifically for personal knowledge management (PKM) applications like [Obsidian.md](https://obsidian.md). Obsidian is a powerful knowledge base on top of a local folder of markdown (.md) files. That definition sounds simple; however, when add some RPG plugins, Obsidian becomes so much more.
+This SRD material contains optional content organized specifically for personal knowledge management (PKM) applications like [Obsidian.md](https://obsidian.md). Obsidian is a powerful knowledge base on top of a local folder of markdown (.md) files. That definition sounds simple; however, when add some RPG plugins, Obsidian becomes so much more.
 
 Visit [Josh Plunket's Website](https://obsidianttrpgtutorials.com) to learn more about using Obsidian for your roleplaying game campaign management.
 
 </details>
 
 <details>
- <summary>Discussions & Issues</summary>
+ <summary>rePport & reFork</summary>
 
-Please **REport** any [issues](https://github.com/OldManUmby/daggerheart.srd/issues) you find through GitHub. As an alternative, you can **REfork & REuse** this project through a GitHub [pull request](https://github.com/OldManUmby/daggerheart.srd/pulls).
+Please **rePort** any [issues](../../issues) you find through GitHub. As an alternative, you can **reFork** this project through a GitHub [pull request](../../pulls).
+</details>
