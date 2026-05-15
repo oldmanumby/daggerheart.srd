@@ -12,6 +12,8 @@ This is an adaptation of the **Daggerheart SRD** converted to Markdown (.MD) for
 
 **The Daggerheart Systems Reference Document (SRD)** contains guidelines for publishing your own Daggerheart content under the [Darrington Press Community Gaming License](https://www.daggerheart.com/srd/).
 
+[Download](https://github.com/oldmanumby/daggerheart.srd/archive/refs/heads/main.zip) this markdown SRD in a .ZIP file.
+
 <details>
  <summary>Why Markdown format?</summary>
 
